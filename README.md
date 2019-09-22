@@ -1,3 +1,3 @@
-# Bright
+# Bright Admin
 
-### A python RESTful Admin Framework
+### A Python Common RESTful Admin Framework
